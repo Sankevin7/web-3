@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Profe Kevin</titulo>
+        <autor>kevin Medina</autor>
+        <imaxefondo posx="-12" posy="-20" trans="100">images.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Estamos_Melos_-_Bomby_Ft_DONKIRAP__(Video_Oficial)_-_BOMBY.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="yo_necesito_su_ayuda_por_que😥_ya_no_aguanto_mas😭😎_ya_no_aguanto_mas😭😎_-_isa.con.sus.locuras🤓👆.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">1.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">2.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">3.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">4.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">5.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">6.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">7.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">8.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">9.png</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">10.png</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>28</tipo>
+              <boton texto="ejercicios de refuerzos">https://www.superprof.es/apuntes/escolar/matematicas/aritmetica/racionales/ejercicios-de-fracciones-2.html</boton>
+              <boton texto="videos de refuerzos">https://youtu.be/mxTvy9sfclg?si=Y4g62P49BGNvvyzz</boton>
+        </paxina>
+        <paxina id="12" >
+              <tipo>10</tipo>
+              <pregunta res="Representa una parte de un total o unidad dividido en partes iguales">¿que es una fraccion?</pregunta>
+              <pregunta res="el numerador y el denominador ">¿cuales son la partes de una fraccion?</pregunta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>41</tipo>
+            <modo>0</modo>
+            <forma>+</forma>
+            <numero>1</numero>
+            <numero>2</numero>
+        </paxina>
+    </libro>
+</lim>
